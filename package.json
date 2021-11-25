@@ -1,6 +1,6 @@
 {
   "name": "next-pagination",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "Pagination component for Next.js apps",
   "author": "etchteam",
   "license": "MIT",
@@ -25,7 +25,7 @@
   },
   "peerDependencies": {
     "react": "^17.0.0",
-    "next": "^11.1.1"
+    "next": "^12.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
